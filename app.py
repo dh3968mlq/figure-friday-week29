@@ -54,7 +54,7 @@ app.layout = dmc.MantineProvider(
                     dmc.Title("English Women's Football", order=1),
                     create_link(
                         "radix-icons:github-logo",
-                        "https://github.com/dh3968mlq/figure-friday/tree/main/2024/week-29",
+                        "https://github.com/dh3968mlq/figure-friday-week29",
                     )
                 ],
                 style={"width":"100%","height":"60px","background-color":"lightcyan"}
