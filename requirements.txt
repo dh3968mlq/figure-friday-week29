@@ -1,0 +1,6 @@
+pandas
+dash
+dash-ag-grid
+dash_mantine_components
+dash-iconify
+gunicorn
