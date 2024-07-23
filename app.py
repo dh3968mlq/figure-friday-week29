@@ -131,4 +131,4 @@ app.layout = dmc.MantineProvider(
 )
 # -------------------------------------------------------------------
 callbacks.cre_callbacks(app)
-app.run(host="0.0.0.0")
+app.run(host="0.0.0.0", port=8050)
